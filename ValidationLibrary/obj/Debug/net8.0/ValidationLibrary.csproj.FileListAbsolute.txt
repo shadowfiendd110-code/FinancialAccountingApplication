@@ -1,0 +1,17 @@
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.deps.json
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\ValidationLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\TransactionLIbrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\WalletLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\TransactionLIbrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\bin\Debug\net8.0\WalletLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.csproj.AssemblyReference.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.AssemblyInfoInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.AssemblyInfo.cs
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\Validati.310EE3C9.Up2Date
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\refint\ValidationLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ValidationLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\ValidationLibrary\obj\Debug\net8.0\ref\ValidationLibrary.dll

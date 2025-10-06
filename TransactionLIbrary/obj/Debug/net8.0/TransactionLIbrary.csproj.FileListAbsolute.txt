@@ -1,0 +1,11 @@
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\bin\Debug\net8.0\TransactionLIbrary.deps.json
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\bin\Debug\net8.0\TransactionLIbrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\bin\Debug\net8.0\TransactionLIbrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.AssemblyInfoInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.AssemblyInfo.cs
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.csproj.CoreCompileInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\refint\TransactionLIbrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\TransactionLIbrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\TransactionLIbrary\obj\Debug\net8.0\ref\TransactionLIbrary.dll
