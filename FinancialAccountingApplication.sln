@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialAccountingApplication", "FinancialAccountingApplication\FinancialAccountingApplication.csproj", "{8D343C41-C940-4821-B16A-4B3E8A7E7BD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TransactionLibrary", "TransactionLibrary", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionLIbrary", "TransactionLIbrary\TransactionLIbrary.csproj", "{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WalletLibrary", "WalletLibrary", "{1A419FC6-DF45-47FB-8EA1-7212831D7411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletLibrary", "WalletLibrary\WalletLibrary.csproj", "{A81D646F-4BA0-4F34-B24E-59BEF15205DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TransactionProcessorLibrary", "TransactionProcessorLibrary", "{FD17C334-16A7-4932-A85E-8C51A42518F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionProcessorLibrary", "TransactionProcessorLibrary\TransactionProcessorLibrary.csproj", "{CDD06723-B865-41CB-908C-6F6DD805599F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValidationLibrary", "ValidationLibrary", "{D02CD80C-3C21-4B13-85D7-D88DAC4149C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationLibrary", "ValidationLibrary\ValidationLibrary.csproj", "{AF3A2444-E76F-47BD-8BC7-C6C252F8216C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WalletOperationLibrary", "WalletOperationLibrary", "{1CB907A5-4FBB-4A19-B8D5-385E0511AA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletOperationLibrary", "WalletOperationLibrary\WalletOperationLibrary.csproj", "{97BF1778-EA16-4948-AF35-6BF611099ACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InputHelperLibrary", "InputHelperLibrary", "{CA942C2E-EFE3-4A96-9BE1-DE5299468B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputHelperLibrary", "InputHelperLibrary\InputHelperLibrary.csproj", "{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D343C41-C940-4821-B16A-4B3E8A7E7BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D343C41-C940-4821-B16A-4B3E8A7E7BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D343C41-C940-4821-B16A-4B3E8A7E7BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D343C41-C940-4821-B16A-4B3E8A7E7BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81D646F-4BA0-4F34-B24E-59BEF15205DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81D646F-4BA0-4F34-B24E-59BEF15205DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81D646F-4BA0-4F34-B24E-59BEF15205DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81D646F-4BA0-4F34-B24E-59BEF15205DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD06723-B865-41CB-908C-6F6DD805599F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD06723-B865-41CB-908C-6F6DD805599F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD06723-B865-41CB-908C-6F6DD805599F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD06723-B865-41CB-908C-6F6DD805599F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3A2444-E76F-47BD-8BC7-C6C252F8216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3A2444-E76F-47BD-8BC7-C6C252F8216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3A2444-E76F-47BD-8BC7-C6C252F8216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3A2444-E76F-47BD-8BC7-C6C252F8216C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BF1778-EA16-4948-AF35-6BF611099ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BF1778-EA16-4948-AF35-6BF611099ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BF1778-EA16-4948-AF35-6BF611099ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BF1778-EA16-4948-AF35-6BF611099ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6755DD78-9DC2-4DD2-A089-79A47C9ABF9C} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{A81D646F-4BA0-4F34-B24E-59BEF15205DD} = {1A419FC6-DF45-47FB-8EA1-7212831D7411}
+		{CDD06723-B865-41CB-908C-6F6DD805599F} = {FD17C334-16A7-4932-A85E-8C51A42518F9}
+		{AF3A2444-E76F-47BD-8BC7-C6C252F8216C} = {D02CD80C-3C21-4B13-85D7-D88DAC4149C9}
+		{97BF1778-EA16-4948-AF35-6BF611099ACC} = {1CB907A5-4FBB-4A19-B8D5-385E0511AA5B}
+		{0CF90E0A-E1BF-43E3-9C4F-B89012DE607B} = {CA942C2E-EFE3-4A96-9BE1-DE5299468B19}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80B7817-8236-48C2-9148-E7B980A1F1E8}
+	EndGlobalSection
+EndGlobal

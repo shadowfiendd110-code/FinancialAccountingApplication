@@ -1,0 +1,15 @@
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\bin\Debug\net8.0\WalletLibrary.deps.json
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\bin\Debug\net8.0\WalletLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\bin\Debug\net8.0\WalletLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\bin\Debug\net8.0\TransactionLIbrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\bin\Debug\net8.0\TransactionLIbrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.csproj.AssemblyReference.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.AssemblyInfoInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.AssemblyInfo.cs
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLi.FAEC64A4.Up2Date
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\refint\WalletLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\WalletLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\WalletLibrary\obj\Debug\net8.0\ref\WalletLibrary.dll

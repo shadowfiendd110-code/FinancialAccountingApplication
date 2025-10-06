@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WalletOperationLibrary/1.0.0": {
+        "dependencies": {
+          "InputHelperLibrary": "1.0.0",
+          "TransactionLIbrary": "1.0.0",
+          "WalletLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WalletOperationLibrary.dll": {}
+        }
+      },
+      "InputHelperLibrary/1.0.0": {
+        "runtime": {
+          "InputHelperLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TransactionLIbrary/1.0.0": {
+        "runtime": {
+          "TransactionLIbrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WalletLibrary/1.0.0": {
+        "dependencies": {
+          "TransactionLIbrary": "1.0.0"
+        },
+        "runtime": {
+          "WalletLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WalletOperationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputHelperLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TransactionLIbrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WalletLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
