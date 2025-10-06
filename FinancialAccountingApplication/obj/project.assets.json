@@ -1,0 +1,211 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "InputHelperLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/InputHelperLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputHelperLibrary.dll": {}
+        }
+      },
+      "TransactionLIbrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TransactionLIbrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TransactionLIbrary.dll": {}
+        }
+      },
+      "TransactionProcessorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InputHelperLibrary": "1.0.0",
+          "TransactionLIbrary": "1.0.0",
+          "ValidationLibrary": "1.0.0",
+          "WalletLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TransactionProcessorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TransactionProcessorLibrary.dll": {}
+        }
+      },
+      "ValidationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TransactionLIbrary": "1.0.0",
+          "WalletLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ValidationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidationLibrary.dll": {}
+        }
+      },
+      "WalletLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TransactionLIbrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WalletLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WalletLibrary.dll": {}
+        }
+      },
+      "WalletOperationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InputHelperLibrary": "1.0.0",
+          "TransactionLIbrary": "1.0.0",
+          "WalletLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WalletOperationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WalletOperationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputHelperLibrary/1.0.0": {
+      "type": "project",
+      "path": "../InputHelperLibrary/InputHelperLibrary.csproj",
+      "msbuildProject": "../InputHelperLibrary/InputHelperLibrary.csproj"
+    },
+    "TransactionLIbrary/1.0.0": {
+      "type": "project",
+      "path": "../TransactionLIbrary/TransactionLIbrary.csproj",
+      "msbuildProject": "../TransactionLIbrary/TransactionLIbrary.csproj"
+    },
+    "TransactionProcessorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TransactionProcessorLibrary/TransactionProcessorLibrary.csproj",
+      "msbuildProject": "../TransactionProcessorLibrary/TransactionProcessorLibrary.csproj"
+    },
+    "ValidationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ValidationLibrary/ValidationLibrary.csproj",
+      "msbuildProject": "../ValidationLibrary/ValidationLibrary.csproj"
+    },
+    "WalletLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WalletLibrary/WalletLibrary.csproj",
+      "msbuildProject": "../WalletLibrary/WalletLibrary.csproj"
+    },
+    "WalletOperationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WalletOperationLibrary/WalletOperationLibrary.csproj",
+      "msbuildProject": "../WalletOperationLibrary/WalletOperationLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "InputHelperLibrary >= 1.0.0",
+      "TransactionLIbrary >= 1.0.0",
+      "TransactionProcessorLibrary >= 1.0.0",
+      "WalletLibrary >= 1.0.0",
+      "WalletOperationLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DEBIL_2000\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\FinancialAccountingApplication\\FinancialAccountingApplication.csproj",
+      "projectName": "FinancialAccountingApplication",
+      "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\FinancialAccountingApplication\\FinancialAccountingApplication.csproj",
+      "packagesPath": "C:\\Users\\DEBIL_2000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\FinancialAccountingApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DEBIL_2000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\InputHelperLibrary\\InputHelperLibrary.csproj": {
+              "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\InputHelperLibrary\\InputHelperLibrary.csproj"
+            },
+            "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\TransactionLIbrary\\TransactionLIbrary.csproj": {
+              "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\TransactionLIbrary\\TransactionLIbrary.csproj"
+            },
+            "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\TransactionProcessorLibrary\\TransactionProcessorLibrary.csproj": {
+              "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\TransactionProcessorLibrary\\TransactionProcessorLibrary.csproj"
+            },
+            "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\WalletLibrary\\WalletLibrary.csproj": {
+              "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\WalletLibrary\\WalletLibrary.csproj"
+            },
+            "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\WalletOperationLibrary\\WalletOperationLibrary.csproj": {
+              "projectPath": "C:\\Users\\DEBIL_2000\\source\\repos\\FinancialAccountingApplication\\WalletOperationLibrary\\WalletOperationLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\bin\Debug\net8.0\InputHelperLibrary.deps.json
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\bin\Debug\net8.0\InputHelperLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\bin\Debug\net8.0\InputHelperLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.AssemblyInfoInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.AssemblyInfo.cs
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\refint\InputHelperLibrary.dll
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\InputHelperLibrary.pdb
+C:\Users\DEBIL_2000\source\repos\FinancialAccountingApplication\InputHelperLibrary\obj\Debug\net8.0\ref\InputHelperLibrary.dll
